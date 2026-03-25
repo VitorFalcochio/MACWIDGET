@@ -1,4 +1,6 @@
 """
+
+AAAAAAAAAAAAAAAAAAAa
 Mac Music Widget — com efeito de cores da capa (estilo iOS 16)
 Ao passar o mouse, as cores dominantes do álbum "invadem" o fundo do widget.
 
